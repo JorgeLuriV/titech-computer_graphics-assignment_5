@@ -4,6 +4,8 @@
 
 ### Imports and global definitions
 
+## Hola Laura !!!!
+
 
 import scipy.constants as sp
 import numpy as np
@@ -45,6 +47,8 @@ plot74 = None
 plot84 = None
 plot92 = None
 rgb = None
+
+## Esto lo añado
 
 
 with open("6plot", "r", encoding="utf-8") as f:
